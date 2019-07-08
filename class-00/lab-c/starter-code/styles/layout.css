@@ -1,0 +1,57 @@
+nav, article, aside, footer section {
+  margin: 0 auto;
+  width: 900px;
+}
+
+nav {
+  margin-top: 25px;
+}
+
+#slogan {
+  width: 250px;
+}
+
+hr {
+  clear: both;
+  border: 0;
+  height: 13px;
+}
+
+h2 {
+  margin-top: 50px;
+}
+
+.print, .date {
+  margin: 10px 0px 33px 0px;
+}
+
+.print img {
+  margin-right: 3px;
+}
+
+main p {
+  margin: 20px 0px; 
+}
+
+.recipe {
+  height: 260px;
+  margin: 40px 0;
+}
+
+.recipe li {
+  width: 40%;
+}
+
+aside p {
+  width: 65%;
+  margin: 0;
+}
+
+aside button {
+  border: none;
+}
+
+section hr {
+  border-bottom: 1px solid #eee;
+  height: 0;
+}
