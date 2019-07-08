@@ -1,0 +1,72 @@
+#logo {
+  float: left;
+  padding-bottom: 25px;
+}
+
+#logo img {
+  float: left;
+}
+
+#logo h1 {
+  padding-left: 50px;
+}
+
+#slogan {
+  padding-left: 55px;
+}
+
+nav ul {
+  float: right;
+}
+
+nav li {
+  float: left;
+  padding-right: 2px;
+}
+
+hr {
+  background-image: url('../img/hr.png');
+}
+
+.date {
+  float: left;
+}
+
+.print {
+  padding-left: 30px;
+  float: right;
+}
+
+.recipe {
+  padding: 37px 0 0 60px;
+}
+
+.recipe li {
+  float: left; 
+}
+
+aside {
+  padding-top: 30px;
+  padding-bottom: 60px
+}
+
+aside img {
+  float: left;
+}
+
+aside h3 {
+  padding: 0px 0px 10px 100px;
+}
+
+aside p {
+  padding-left: 100px;
+}
+
+aside button {
+  float: right;
+  padding: 15px 40px;
+}
+
+footer section p {
+  padding: 50px 0;
+}
